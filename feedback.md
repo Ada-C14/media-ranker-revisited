@@ -40,14 +40,13 @@ At project submission, we expect more tests/assertions, and 0 skips
 | Functional Requirement | yes/no |
 | --- | --- |
 | Completed OAuth: Logging in goes through GitHub | ✔️?
-| Logged-in users can access the index and show pages, guest users get redirected | ✔️?
 
 ## Overall Feedback
 
 | Overall Feedback | Criteria | yes/no |
 | --- | --- | --- |
-| Green (Meets/Exceeds Standards) | 2 in Functional Requirements and controller methods are cleanly written with appropriate model methods for Oauth | 
-| Yellow (Approaches Standards) | 1 in Functional Requirements, or the instructor judges that this project needs special attention | 
+| Green (Meets/Exceeds Standards) | 1 in Functional Requirements and controller methods are cleanly written with appropriate model methods for Oauth | 
+| Yellow (Approaches Standards) | 1 in Functional Requirements, and the instructor judges that this project needs special attention | 
 | Red (Not at Standard) |  0 in Functional Reqs, or assignment is breaking/doesn’t run with less than 5 minutes of debugging, or the instructor judges that this project needs special attention | 
 
 <!-- ### Additional Feedback -->
